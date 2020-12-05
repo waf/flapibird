@@ -1,0 +1,5 @@
+https://pub.dev/packages/url_launcher
+https://github.com/google/flutter-desktop-embedding/tree/master/plugins/menubar
+https://github.com/google/flutter-desktop-embedding/tree/master/plugins/file_chooser
+https://github.com/synw/desktopia
+https://blog.gskinner.com/archives/2020/09/flokk-how-we-built-a-desktop-app-using-flutter.html#scaffold
